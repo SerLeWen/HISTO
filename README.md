@@ -1,4 +1,4 @@
-# histoMED
+# histo
  A medical app to help with histoogists for the automated process of histology going through biopy,solutions immersing and staining for the body tissue that had ben cut from organs which is suspected to be cancer. This can ultimately helps with an increase in productivity and saves time, indirectly improve healthcare system.
 
 <h2>Prototype Testing for UI/UX</h2>
